@@ -1,0 +1,98 @@
+D:\bel-skolah\bel-skolah\bin\Debug\bel-skolah.exe.config
+D:\bel-skolah\bel-skolah\bin\Debug\bel-skolah.exe
+D:\bel-skolah\bel-skolah\bin\Debug\bel-skolah.pdb
+D:\bel-skolah\bel-skolah\obj\Debug\bel-skolah.csprojAssemblyReference.cache
+D:\bel-skolah\bel-skolah\obj\Debug\bel-skolah.csproj.CoreCompileInputs.cache
+D:\bel-skolah\bel-skolah\obj\Debug\bel-skolah.exe
+D:\bel-skolah\bel-skolah\obj\Debug\bel-skolah.pdb
+D:\bel-skolah\bel-skolah\bin\Debug\urip.accdb
+D:\inw1\bel-skolah\bel-skolah\bin\Debug\urip.accdb
+D:\inw1\bel-skolah\bel-skolah\bin\Debug\bel-skolah.exe.config
+D:\inw1\bel-skolah\bel-skolah\bin\Debug\bel-skolah.exe
+D:\inw1\bel-skolah\bel-skolah\bin\Debug\bel-skolah.pdb
+D:\inw1\bel-skolah\bel-skolah\obj\Debug\bel-skolah.csprojAssemblyReference.cache
+D:\inw1\bel-skolah\bel-skolah\obj\Debug\bel-skolah.csproj.CoreCompileInputs.cache
+D:\inw1\bel-skolah\bel-skolah\obj\Debug\bel-skolah.exe
+D:\inw1\bel-skolah\bel-skolah\obj\Debug\bel-skolah.pdb
+D:\inw1\bel-skolah\bel-skolah\bin\Debug\Suara\5 Menit Akhir Istirahat I.wav
+D:\inw1\bel-skolah\bel-skolah\bin\Debug\Suara\5 Menit Akhir Istirahat II.wav
+D:\inw1\bel-skolah\bel-skolah\bin\Debug\Suara\5 Menit Akhir Kegiatan Keagamaan.wav
+D:\inw1\bel-skolah\bel-skolah\bin\Debug\Suara\5 Menit Awal Kegiatan Keagamaan.wav
+D:\inw1\bel-skolah\bel-skolah\bin\Debug\Suara\5 Menit Awal Upacara.wav
+D:\inw1\bel-skolah\bel-skolah\bin\Debug\Suara\Akhir Pekan 1.wav
+D:\inw1\bel-skolah\bel-skolah\bin\Debug\Suara\Akhir Pekan 2.wav
+D:\inw1\bel-skolah\bel-skolah\bin\Debug\Suara\Akhir Pelajaran A.wav
+D:\inw1\bel-skolah\bel-skolah\bin\Debug\Suara\Akhir Pelajaran B.wav
+D:\inw1\bel-skolah\bel-skolah\bin\Debug\Suara\awal jam ke 1.wav
+D:\inw1\bel-skolah\bel-skolah\bin\Debug\Suara\Istirahat I.wav
+D:\inw1\bel-skolah\bel-skolah\bin\Debug\Suara\Istirahat II.wav
+D:\inw1\bel-skolah\bel-skolah\bin\Debug\Suara\Pelajaran ke 1.wav
+D:\inw1\bel-skolah\bel-skolah\bin\Debug\Suara\Pelajaran ke 2.wav
+D:\inw1\bel-skolah\bel-skolah\bin\Debug\Suara\Pelajaran ke 3.wav
+D:\inw1\bel-skolah\bel-skolah\bin\Debug\Suara\Pelajaran ke 4.wav
+D:\inw1\bel-skolah\bel-skolah\bin\Debug\Suara\Pelajaran ke 5.wav
+D:\inw1\bel-skolah\bel-skolah\bin\Debug\Suara\Pelajaran ke 6.wav
+D:\inw1\bel-skolah\bel-skolah\bin\Debug\Suara\Pelajaran ke 7.wav
+D:\inw1\bel-skolah\bel-skolah\bin\Debug\Suara\Pelajaran ke 8.wav
+D:\inw1\bel-skolah\bel-skolah\bin\Debug\Suara\Pelajaran ke 9.wav
+D:\inw1\bel-skolah\bel-skolah\bin\Debug\Suara\pembuka.wav
+D:\Ihsan-Ik2-088\bel-skolah\bel-skolah\bin\Debug\Suara\5 Menit Akhir Istirahat I.wav
+D:\Ihsan-Ik2-088\bel-skolah\bel-skolah\bin\Debug\Suara\5 Menit Akhir Istirahat II.wav
+D:\Ihsan-Ik2-088\bel-skolah\bel-skolah\bin\Debug\Suara\5 Menit Akhir Kegiatan Keagamaan.wav
+D:\Ihsan-Ik2-088\bel-skolah\bel-skolah\bin\Debug\Suara\5 Menit Awal Kegiatan Keagamaan.wav
+D:\Ihsan-Ik2-088\bel-skolah\bel-skolah\bin\Debug\Suara\5 Menit Awal Upacara.wav
+D:\Ihsan-Ik2-088\bel-skolah\bel-skolah\bin\Debug\Suara\Akhir Pekan 1.wav
+D:\Ihsan-Ik2-088\bel-skolah\bel-skolah\bin\Debug\Suara\Akhir Pekan 2.wav
+D:\Ihsan-Ik2-088\bel-skolah\bel-skolah\bin\Debug\Suara\Akhir Pelajaran A.wav
+D:\Ihsan-Ik2-088\bel-skolah\bel-skolah\bin\Debug\Suara\Akhir Pelajaran B.wav
+D:\Ihsan-Ik2-088\bel-skolah\bel-skolah\bin\Debug\Suara\awal jam ke 1.wav
+D:\Ihsan-Ik2-088\bel-skolah\bel-skolah\bin\Debug\Suara\Istirahat I.wav
+D:\Ihsan-Ik2-088\bel-skolah\bel-skolah\bin\Debug\Suara\Istirahat II.wav
+D:\Ihsan-Ik2-088\bel-skolah\bel-skolah\bin\Debug\Suara\Pelajaran ke 1.wav
+D:\Ihsan-Ik2-088\bel-skolah\bel-skolah\bin\Debug\Suara\Pelajaran ke 2.wav
+D:\Ihsan-Ik2-088\bel-skolah\bel-skolah\bin\Debug\Suara\Pelajaran ke 3.wav
+D:\Ihsan-Ik2-088\bel-skolah\bel-skolah\bin\Debug\Suara\Pelajaran ke 4.wav
+D:\Ihsan-Ik2-088\bel-skolah\bel-skolah\bin\Debug\Suara\Pelajaran ke 5.wav
+D:\Ihsan-Ik2-088\bel-skolah\bel-skolah\bin\Debug\Suara\Pelajaran ke 6.wav
+D:\Ihsan-Ik2-088\bel-skolah\bel-skolah\bin\Debug\Suara\Pelajaran ke 7.wav
+D:\Ihsan-Ik2-088\bel-skolah\bel-skolah\bin\Debug\Suara\Pelajaran ke 8.wav
+D:\Ihsan-Ik2-088\bel-skolah\bel-skolah\bin\Debug\Suara\Pelajaran ke 9.wav
+D:\Ihsan-Ik2-088\bel-skolah\bel-skolah\bin\Debug\Suara\pembuka.wav
+D:\Ihsan-Ik2-088\bel-skolah\bel-skolah\bin\Debug\urip.accdb
+D:\Ihsan-Ik2-088\bel-skolah\bel-skolah\bin\Debug\bel-skolah.exe.config
+D:\Ihsan-Ik2-088\bel-skolah\bel-skolah\bin\Debug\bel-skolah.exe
+D:\Ihsan-Ik2-088\bel-skolah\bel-skolah\bin\Debug\bel-skolah.pdb
+D:\Ihsan-Ik2-088\bel-skolah\bel-skolah\obj\Debug\bel-skolah.csprojAssemblyReference.cache
+D:\Ihsan-Ik2-088\bel-skolah\bel-skolah\obj\Debug\bel-skolah.csproj.CoreCompileInputs.cache
+D:\Ihsan-Ik2-088\bel-skolah\bel-skolah\obj\Debug\bel-skolah.exe
+D:\Ihsan-Ik2-088\bel-skolah\bel-skolah\obj\Debug\bel-skolah.pdb
+F:\Ihsan-Ik2-088\bel-skolah\bel-skolah\bin\Debug\Suara\5 Menit Akhir Istirahat I.wav
+F:\Ihsan-Ik2-088\bel-skolah\bel-skolah\bin\Debug\Suara\5 Menit Akhir Istirahat II.wav
+F:\Ihsan-Ik2-088\bel-skolah\bel-skolah\bin\Debug\Suara\5 Menit Akhir Kegiatan Keagamaan.wav
+F:\Ihsan-Ik2-088\bel-skolah\bel-skolah\bin\Debug\Suara\5 Menit Awal Kegiatan Keagamaan.wav
+F:\Ihsan-Ik2-088\bel-skolah\bel-skolah\bin\Debug\Suara\5 Menit Awal Upacara.wav
+F:\Ihsan-Ik2-088\bel-skolah\bel-skolah\bin\Debug\Suara\Akhir Pekan 1.wav
+F:\Ihsan-Ik2-088\bel-skolah\bel-skolah\bin\Debug\Suara\Akhir Pekan 2.wav
+F:\Ihsan-Ik2-088\bel-skolah\bel-skolah\bin\Debug\Suara\Akhir Pelajaran A.wav
+F:\Ihsan-Ik2-088\bel-skolah\bel-skolah\bin\Debug\Suara\Akhir Pelajaran B.wav
+F:\Ihsan-Ik2-088\bel-skolah\bel-skolah\bin\Debug\Suara\awal jam ke 1.wav
+F:\Ihsan-Ik2-088\bel-skolah\bel-skolah\bin\Debug\Suara\Istirahat I.wav
+F:\Ihsan-Ik2-088\bel-skolah\bel-skolah\bin\Debug\Suara\Istirahat II.wav
+F:\Ihsan-Ik2-088\bel-skolah\bel-skolah\bin\Debug\Suara\Pelajaran ke 1.wav
+F:\Ihsan-Ik2-088\bel-skolah\bel-skolah\bin\Debug\Suara\Pelajaran ke 2.wav
+F:\Ihsan-Ik2-088\bel-skolah\bel-skolah\bin\Debug\Suara\Pelajaran ke 3.wav
+F:\Ihsan-Ik2-088\bel-skolah\bel-skolah\bin\Debug\Suara\Pelajaran ke 4.wav
+F:\Ihsan-Ik2-088\bel-skolah\bel-skolah\bin\Debug\Suara\Pelajaran ke 5.wav
+F:\Ihsan-Ik2-088\bel-skolah\bel-skolah\bin\Debug\Suara\Pelajaran ke 6.wav
+F:\Ihsan-Ik2-088\bel-skolah\bel-skolah\bin\Debug\Suara\Pelajaran ke 7.wav
+F:\Ihsan-Ik2-088\bel-skolah\bel-skolah\bin\Debug\Suara\Pelajaran ke 8.wav
+F:\Ihsan-Ik2-088\bel-skolah\bel-skolah\bin\Debug\Suara\Pelajaran ke 9.wav
+F:\Ihsan-Ik2-088\bel-skolah\bel-skolah\bin\Debug\Suara\pembuka.wav
+F:\Ihsan-Ik2-088\bel-skolah\bel-skolah\bin\Debug\urip.accdb
+F:\Ihsan-Ik2-088\bel-skolah\bel-skolah\bin\Debug\bel-skolah.exe.config
+F:\Ihsan-Ik2-088\bel-skolah\bel-skolah\bin\Debug\bel-skolah.exe
+F:\Ihsan-Ik2-088\bel-skolah\bel-skolah\bin\Debug\bel-skolah.pdb
+F:\Ihsan-Ik2-088\bel-skolah\bel-skolah\obj\Debug\bel-skolah.csprojAssemblyReference.cache
+F:\Ihsan-Ik2-088\bel-skolah\bel-skolah\obj\Debug\bel-skolah.csproj.CoreCompileInputs.cache
+F:\Ihsan-Ik2-088\bel-skolah\bel-skolah\obj\Debug\bel-skolah.exe
+F:\Ihsan-Ik2-088\bel-skolah\bel-skolah\obj\Debug\bel-skolah.pdb
