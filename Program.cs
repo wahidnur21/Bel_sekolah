@@ -298,7 +298,7 @@ namespace bel_skolah
             new Clear(32, 6, 78, 17).Tampil();
 
             Tulisan Edit = new Tulisan();
-            Edit.SetXY(31, 7).SetText("~: EDIT DATA BARU :~").SetLength(79);
+            Edit.SetXY(31, 7).SetText("~: EDIT DATA NEW :~").SetLength(79);
             Edit.TampilTengah();
 
             Inputan IDInputDirubah = new Inputan();
@@ -373,7 +373,7 @@ namespace bel_skolah
             new Clear(32, 6, 78, 17).Tampil();
 
             Tulisan Hapus = new Tulisan();
-            Hapus.SetXY(31, 7).SetText("~: HAPUS DATA :~").SetLength(79);
+            Hapus.SetXY(31, 7).SetText("~: MENGHAPUS DATA :~").SetLength(79);
             Hapus.TampilTengah();
 
             Inputan IDInput = new Inputan();
